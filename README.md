@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a Brooklyn College Student Also a Software Engineer Intern at Year Up United 
+I'm currently a student at Brooklyn College and a Software Engineering Intern at Year Up United.
 
 
 # 💻 Tech Stack:
