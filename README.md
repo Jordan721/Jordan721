@@ -1,3 +1,5 @@
+Hello World:
+
 👋 About Me
 I'm a Results-Driven Software Engineer & Web Designer with a passion for building responsive, user-focused digital experiences. My skill set spans HTML, CSS, JavaScript, and Adobe Creative Cloud, allowing me to craft both the functionality and the visual appeal of every project I take on.
 
