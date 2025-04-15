@@ -1,5 +1,8 @@
 # 💫 About Me:
 I'm currently a student at Brooklyn College and a Software Engineering Intern at Year Up United. 
+
+![giphy](https://github.com/user-attachments/assets/11c30aaa-42d5-42b3-a127-ce2d51005224)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jordan-alexis-799214175/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexisjordan842@gmail.com) 
 
