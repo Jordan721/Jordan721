@@ -1,7 +1,7 @@
 Hello World:
 
 👋 About Me
-I'm a results-driven Software Engineer and Web Designer with a passion for building responsive, user-focused digital experiences. With expertise in HTML, CSS, JavaScript, and Adobe Creative Cloud, I seamlessly blend functionality with visual appeal in every project. My background in project management and data analysis enables me to streamline operations, manage complex schedules, and lead cross-functional teams to success. I excel in client relations, collaborating closely to deliver exactly what users need—often going above and beyond. Fueled by a problem-solving mindset, I turn challenges into efficient, elegant solutions that make a real impact. Whether I’m crafting sleek websites or optimizing workflows, I’m committed to exceeding expectations and delivering results that matter.
+I'm a results-driven Software Engineer and Web Designer passionate about building responsive, user-focused digital experiences. With expertise in HTML, CSS, JavaScript, and Adobe Creative Cloud, I seamlessly blend functionality with visual appeal in every project. My background in project management and data analysis enables me to streamline operations, manage complex schedules, and lead cross-functional teams to success. I excel in client relations, collaborating closely to deliver what users need, often going above and beyond. Fueled by a problem-solving mindset, I turn challenges into efficient, elegant solutions that make a real impact. Whether I’m crafting sleek websites or optimizing workflows, I’m committed to exceeding expectations and delivering results that matter.
 
 ![d481f3c72e283309071f79e01b05c06d](https://github.com/user-attachments/assets/52ce7429-f3b2-47e3-a83f-35f070f363a4)
 
