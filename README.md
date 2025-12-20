@@ -72,8 +72,6 @@ I'm passionate about creating responsive, user-focused digital experiences that 
 ---
 
 <div align="center">
-  
-![Visitor Count](https://visitcount.itsvg.in/api?id=Jordan721&icon=0&color=1)
 
 **Thanks for stopping by! Let's build something amazing together.** 🚀
 
