@@ -49,20 +49,6 @@ I'm passionate about creating responsive, user-focused digital experiences that 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=Jordan721&theme=cobalt&hide_border=true&include_all_commits=true&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Jordan721&theme=cobalt&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan721&theme=cobalt&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-alexis-799214175/)
